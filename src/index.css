@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+
+button:hover{
+  background-color: #e4a209;
+  color: rgb(4, 4, 88);
+}
+
